@@ -1,5 +1,5 @@
 # SYK-MLL-Proteomics
-Mass Spectrometry analysis of SYK-BioID, SYK KO and SYK-IP
+Mass Spectrometry analysis of Mass Spectrometry ptn-BioIDs, KOs-interactome and ptn-IP
 
 This is Mass Spectrometry analysis in R.
 Main questions of the study:
