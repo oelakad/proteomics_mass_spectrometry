@@ -1,4 +1,4 @@
-# SYK-MLL-Proteomics
+# MS-Proteomics
 Mass Spectrometry analysis of Mass Spectrometry ptn-BioIDs, KOs-interactome and ptn-IP
 
 This is Mass Spectrometry analysis in R.
