@@ -630,7 +630,7 @@ SEMY_GSEA_Reactome %>%
 #-------GSEA_MITOCARTA--(I used it here as a negative control for nuclear proteins)----
 #-------GSEA_MITOCARTA--(I used it here as a negative control for nuclear proteins)
 
-mitocarta<- read_excel("C:/Users/Anjali Cremer/Downloads/Human.MitoCarta3.0.xls", sheet=4)%>% 
+mitocarta<- read_excel("C:/Downloads/Human.MitoCarta3.0.xls", sheet=4)%>% 
   #first we create a list where every element is a pathway with its genes in an character vector
   dplyr::select(MitoPathway, Genes) %>% 
   {
