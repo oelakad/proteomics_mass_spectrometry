@@ -3,7 +3,7 @@ Mass Spectrometry analysis of SILAC labelled ptn-BioIDs, KO-interactome and ptn-
 Mass Spectrometry analysis of TMT labelled cells
 
 This is Mass Spectrometry analysis in R.
-Main questions of the study:
+Main aims of the study:
 1- Role of specific proteins in leukemia,
 2- Nuclear role of specific proteins in leukemia and
 3- New hits identification to target leukemia.
